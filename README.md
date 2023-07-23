@@ -9,6 +9,7 @@ Commands:
 !info : Bot will give a deeper introduction (name, purpose, message)
 !lifestyle : Bot will give a list of actions to implement in your daily life
 !recycle : Bot will give a few random ideas to transform your waste products into something cute and useful
+!bye : Bot will bid you goodbye
 
 
 main code = EcoBot.py
